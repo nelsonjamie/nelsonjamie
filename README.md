@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nelsonjamie. You can call me Jamie. 
 - 🌵 I live in Arizona and love the warm weather and sunshine. 
 - 👀 I’m interested in learning, traveling, and new adventures.
-- 🌱 I’m new to coding and I'm starting with learning JavaScript.
+- 🌱 I enjoy coding projects that involve JavaScript and React. 
 
 
 <!---
